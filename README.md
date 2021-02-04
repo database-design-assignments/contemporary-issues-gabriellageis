@@ -1,6 +1,6 @@
-# Contemporary Issues In Data
+# Data Privacy Violations with Period Tracking Apps
 
-This assignment is a response to two articles with differing viewpoints on the data-related issue of women's health data, specifically the topic of period-tracking apps.
+This assignment is a response to two articles with differing viewpoints on the data privacy issue of women's health data, specifically the topic of period-tracking apps.
 
 ## Article 1
 
